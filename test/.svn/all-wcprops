@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/wg-ros-pkg/!svn/ver/52391/stacks/pr2_ethercat_drivers/trunk/ethercat_hardware/test
+END
+motor_heating_model_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/wg-ros-pkg/!svn/ver/52391/stacks/pr2_ethercat_drivers/trunk/ethercat_hardware/test/motor_heating_model_test.cpp
+END
+wg0x_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wg-ros-pkg/!svn/ver/48822/stacks/pr2_ethercat_drivers/trunk/ethercat_hardware/test/wg0x_test.cpp
+END
